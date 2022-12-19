@@ -4,7 +4,7 @@
 
 ## GUI Deployment
 
-[Deployed Link]()
+[Deployed Link](http://cloudserver-env.eba-jxqm3pn3.us-west-2.elasticbeanstalk.com/)
 
 ### Process
 
@@ -20,7 +20,7 @@
 
 ## CLI Deployment Process
 
-[Deployed Link]()
+[Deployed Link](https://cloud-server-dev2.us-west-1.elasticbeanstalk.com/)
 
 ### Process
 
